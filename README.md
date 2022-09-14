@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kianla
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learnin C#
 - 📫 How to reach me -> kianla9519@gmail.com
